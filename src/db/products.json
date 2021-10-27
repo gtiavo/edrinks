@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "nombre":"Cerveza Patagonia Bohemian Pilsener rubia lata 473 mL 6 u",
+        "descripcion":"Marca Patagonia Estilo de cerveza Bohemian Pilsener Tipo de envase Lata Volumen de la unidad 473 mL Formato de venta Pack Unidades por pack 6",
+        "precio":"800",
+        "cantidad":"10",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_786284-MLA45139485703_032021-V.jpg"
+    },
+    {
+        "id": "2",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "3",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "4",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "5",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "6",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "7",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "8",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "9",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    },
+    {
+        "id": "10",
+        "nombre":"",
+        "descripcion":"",
+        "precio":"",
+        "cantidad":"",
+        "imagen":""
+    }
+]

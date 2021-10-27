@@ -38,3 +38,33 @@ a{
 }
 
 /* AQUI TERMINA EL ESTILO PARA EL CARRUSEL */
+
+/* CSS DE LAS TARJETAS */
+
+.contTarjetas{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.contTarjeta{
+width: 40%;
+background-color: crimson;
+margin: 10px;
+}
+.contTarjeta  h5, h4 {
+    padding: 10px;
+}
+
+.imgTarjeta{
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    
+}
+
+.imgTarjeta img{
+    width: 50%;
+    
+}

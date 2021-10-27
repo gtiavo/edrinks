@@ -1,33 +1,40 @@
-.bar{
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESTILO CSS DEL MAIN EN EL HOME PARA CELULARES >>>>>>>>>>>>>>>>>>>>>>*/
+
+
+/* AQUI ESAT EL ESTILO PARA EL CARRUSEL */
+
+#conteItemsCarrusel{
+    height: 190px;
+    overflow: hidden;
+}
+
+.itemCarrusel{
+height: 100%;
+position: relative;
+}
+
+.tarjetaCarrusel{
+height: 100%;
+}
+.tarjetaCarrusel img{
     width: 100%;
-    background-color: black;
-    border: solid 1px black;
+    height: 100%;
 }
 
-.logo{
-    text-align: center;
-    margin-top: 5px;
-}
-
-.logo img{
-    width: 25%;
-  
-}
-
-.contSearchCarBarI{
+.flechasCarrusel{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
     display: flex;
-    justify-content:space-between;
-    margin-top: 25px;
-    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
 }
 
-.barI i{
-    color: white;
-    margin-left: 5px;
-    font-size: 20px;
+a{
+    text-decoration: none;
 }
 
-.searchCar i{
-    color: white;
-    margin-right: 10px;
-}
+/* AQUI TERMINA EL ESTILO PARA EL CARRUSEL */

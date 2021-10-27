@@ -1,0 +1,57 @@
+/* <<<<<<<<<<<<<<<<<<<<<< AQUI COMIENZA EL CSS DEL HEADER Y EL FOOTER PARA CELULRES>>>>>>>>>>>> */
+
+
+/* ESTILO CSS PARA EL HEADER */
+.bar{
+    width: 100%;
+    background-color: black;
+    border: solid 1px black;
+}
+
+.logo{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.logo img{
+    width: 25%;
+  
+}
+
+.contSearchCarBarI{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+.barI i{
+    color: white;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.searchCar i{
+    color: white;
+    margin-right: 10px;
+}
+
+
+
+/* ESTILO CSS PARA EL FOOTER */
+
+.contFooter{
+    width: 100%;
+    background-color: black;
+    
+}
+.contFooter h6 {
+    color:white;
+    margin-left: 5px;
+   
+
+}
+.contFooter i{
+    color:white;
+    margin: 5px;
+}

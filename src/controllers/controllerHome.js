@@ -6,3 +6,5 @@ const controllers = {
 
 
 module.exports = controllers;
+
+// CONTROLLERS DE LA RUTA PRINCIPAL HOME, SERA REQUERIDA POR EL INDEX DEL CONTROLLERS

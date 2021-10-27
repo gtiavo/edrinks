@@ -1,39 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="../css/styles.css">
-</head>
+    <%- include('partials/head'); %>
 
 <body>
-    <header class="contHeader">
-      <section class="bar">  
-        <section class="logo">
-        <img src="../img/drinkslogo.png" alt="LOGO">
-        </section>
-    <article class="contSearchCarBarI">    
-        <section class="barI">
-            <i class="fas fa-bars"></i>  
-        </section>
-        <section class="searchCar">
-       <i class="fas fa-search"></i>
+    <%- include('partials/header'); %>
 
-       <i class="fas fa-shopping-cart"></i>
-        </section>
-    </article>   
-      </section>   
-    </header>
+
     <main>
+        <!-- CARRUSEL HECHO TOTALMENTE CON HTML Y CSS  -->
+     <section id="conteItemsCarrusel">
+        <section class="itemCarrusel" id="itemCarrusel-1">
+            <article class="tarjetaCarrusel" id="tarjetaCarrusel-1">
+                <img src="./img/combo1.jpg" alt="">
+            </article>
+            <article class="flechasCarrusel">
+                <a href="#itemCarrusel-3"><i class="fas fa-chevron-left"></i></a>
+                <a href="#itemCarrusel-2"><i class="fas fa-chevron-right"></i></a>
+            </article>
+        </section>
+        <section class="itemCarrusel" id="itemCarrusel-2">
+            <article class="tarjetaCarrusel" id="tarjetaCarrusel-2">
+                <img src="./img/combo2.jpg" alt="No se encontro la imagen">
+            </article>
+            <article class="flechasCarrusel">
+                <a href="#itemCarrusel-1"><i class="fas fa-chevron-left"></i></a>
+                <a href="#itemCarrusel-3"><i class="fas fa-chevron-right"></i></a>
+            </article>
+        </section>
+        <section class="itemCarrusel" id="itemCarrusel-3">
+            <article class="tarjetaCarrusel" id="tarjetaCarrusel-3">
+                <img src="./img/combo3.jpg" alt="No se encontro la imagen">
+            </article>
+            <article class="flechasCarrusel">
+                <a href="#itemCarrusel-2"><i class="fas fa-chevron-left"></i></a>
+                <a href="#itemCarrusel-1"><i class="fas fa-chevron-right"></i></a>
+            </article>
+        </section>
+
+     </section>
 
     </main>
-    <footer>
 
-    </footer>
+
+    <%- include('partials/footer'); %>
 
 </body>
 

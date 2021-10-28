@@ -5,34 +5,42 @@
 
 <body>
     <%- include('partials/header'); %>
-
-
+    
+    
     <main>
         <%- include('partials/carrusel'); %>
-
+        <section  class="novedades">
+            <h5>NOVEDADES</h5>
+            <h6>VER TODO</h6>
+        </section>
         <section class="contTarjetas">
-            <article class="contTarjeta">
-                <article class="imgTarjeta"><img src="https://http2.mlstatic.com/D_NQ_NP_786284-MLA45139485703_032021-V.jpg" alt=""></article>
-                <h5>$ 800</h5>
-                <h4>Cerveza Patagonia Bohemian Pilsener rubia lata 473 mL 6 u</h4>
-            </article>
-            <article class="contTarjeta">
-                <article class="imgTarjeta"><img src="https://http2.mlstatic.com/D_NQ_NP_786284-MLA45139485703_032021-V.jpg" alt=""></article>
-                <h5>$ 800</h5>
-                <h4>Cerveza Patagonia Bohemian Pilsener rubia lata 473 mL 6 u</h4>
-            </article>
-            <article class="contTarjeta">
-                <article class="imgTarjeta"><img src="https://http2.mlstatic.com/D_NQ_NP_786284-MLA45139485703_032021-V.jpg" alt=""></article>
-                <h5>$ 800</h5>
-                <h4>Cerveza Patagonia Bohemian Pilsener rubia lata 473 mL 6 u</h4>
-            </article> 
-            <article class="contTarjeta">
-                <article class="imgTarjeta"><img src="https://http2.mlstatic.com/D_NQ_NP_786284-MLA45139485703_032021-V.jpg" alt=""></article>
-                <h5>$ 800</h5>
-                <h4>Cerveza Patagonia Bohemian Pilsener rubia lata 473 mL 6 u</h4>
-            </article>  
+            <% productos.filter( product =>{  %>
+            <% if (product.categoria == "novedades" && product.vidriera == true) { %>
+                <%- include('partials/cards', {product}); %>
+            <% } %>   
+            <% }); %>
         </section>
 
+        <section class="armaTuPedido">
+            <a href="#"><img src="https://tudaycl.files.wordpress.com/2017/07/arma-tu-pedido1.png?w=640" alt=""></a>
+        </section>
+
+        <section  class="ofertas">
+            <h5>OFERTAS</h5>
+            <h6>VER TODO</h6>
+        </section>
+        <section class="contTarjetas">
+            <% productos.filter( product =>{  %>
+            <% if (product.categoria == "ofertas" && product.vidriera == true) { %>
+            <%- include('partials/cards', {product}); %>
+            <% } %>   
+            <% }); %>
+            
+        </section>
+
+        
+      
+          
 
     </main>
 

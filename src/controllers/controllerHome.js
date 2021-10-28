@@ -1,6 +1,10 @@
+const {Productos} = require ('../models')
+
+
 const controllers = {
     home: (req,res)=>{
-        res.render('home')
+        let productos = Productos.getAll()
+        res.render('home', {productos})    
     }
 }
 

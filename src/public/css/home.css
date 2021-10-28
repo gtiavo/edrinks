@@ -5,7 +5,7 @@
 /* AQUI ESAT EL ESTILO PARA EL CARRUSEL */
 
 #conteItemsCarrusel{
-    height: 190px;
+    height: 300px;
     overflow: hidden;
 }
 
@@ -39,7 +39,14 @@ a{
 
 /* AQUI TERMINA EL ESTILO PARA EL CARRUSEL */
 
-/* CSS DE LAS TARJETAS */
+.novedades{
+    display: flex;
+    justify-content:space-around;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+/* CSS DE LAS TARJETAS NOVEDADES*/
 
 .contTarjetas{
     width: 100%;
@@ -50,7 +57,10 @@ a{
 
 .contTarjeta{
 width: 40%;
-background-color: crimson;
+
+box-shadow:  inset 0 -3em 3em rgba(0,0,0,0.1),
+0 0  0 2px rgb(255,255,255),
+0.3em 0.3em 1em rgba(0,0,0,0.3);
 margin: 10px;
 }
 .contTarjeta  h5, h4 {
@@ -67,4 +77,25 @@ margin: 10px;
 .imgTarjeta img{
     width: 50%;
     
+}
+
+/* ACA TERMINA EL CSS DE LAS TARJETAS NOVEDADES */
+.armaTuPedido{
+    text-align: center;
+    margin: 10px;
+}
+
+.armaTuPedido img{
+    width: 200px;
+    box-shadow:  inset 0 -3em 3em rgba(0,0,0,0.1),
+0 0  0 2px rgb(255,255,255),
+0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+
+.ofertas{
+    display: flex;
+    justify-content:space-around;
+    padding: 10px;
+    margin-top: 40px;
 }

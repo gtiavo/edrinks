@@ -4,8 +4,7 @@ const fs = require('fs')
 
 const modelsProducts = {
     
-
-    getAll: ()=>{
+  getAll: ()=>{
         return db
          
     } 

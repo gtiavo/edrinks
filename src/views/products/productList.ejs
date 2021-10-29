@@ -4,9 +4,14 @@
 <body>
     <%- include('../partials/header'); %>
     <main>
-        <img src="<%= productos.imagen %>" alt="">
+        <section class="contTarjetas">
+            <% productos.forEach( product =>{  %>
+                <%- include('../partials/cards', {product}); %>  
+            <% }); %>
+        </section>
+
     </main>
     <%- include('../partials/footer'); %>
-
+    
 </body>
 </html>

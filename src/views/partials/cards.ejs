@@ -1,6 +1,8 @@
         
 <article class="contTarjeta">
-    <article class="imgTarjeta"><img src=<%= product.imagen %> alt=""></article>
+    <article class="imgTarjeta">
+        <a href="../product/detail/<%= product.id %>"><img src=<%= product.imagen %> alt=""></a>
+    </article>
     <h5>$ <%= product.precio %></h5>
-    <h4><%= product.nombre %></h4>
+    <a href="../product/detail/<%= product.id %>"><h4><%= product.nombre %></h4</a>>
 </article>

@@ -1,11 +1,11 @@
 const controllerHome = require('./controllerHome');
-const controllerNovedad = require('./controllerProduct')
+const controllerProducts = require('./controllerProduct')
 
 
 
 
 
-module.exports = {controllerHome, controllerNovedad}
+module.exports = {controllerHome, controllerProducts}
 
 
 // EN ESTE INDEX SE ALOJARAN TODOS LOS CONTROLLERS Y SERAN REQUERIDOS POR LAS RUTAS

@@ -4,7 +4,7 @@
 /* ESTILO CSS PARA EL HEADER */
 .bar{
     width: 100%;
-    background-color: black;
+    background-color: rgb(19, 17, 17);
     border: solid 1px black;
 }
 
@@ -25,11 +25,20 @@
     margin-bottom: 5px;
 }
 
+.barI{
+   
+  margin: 5px;
+}
+
 .barI i{
     color: white;
-    margin-left: 5px;
     font-size: 20px;
+   
 }
+
+
+
+
 
 .searchCar i{
     color: white;

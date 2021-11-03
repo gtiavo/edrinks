@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <form action="/formCreate/create" method="POST" enctype="multipart/form-data">
+        <label for="">Nombre 
+        <input type="text" name="nombre">
+        </label>
+        <br>
+        <label for="">Descripción
+        <input type="text" name="descripcion" >
+        </label> 
+        <br>
+        <label for="">Precio
+        <input type="number" name="precio" >
+        </label>
+        <br>
+        <label for="">Cantidad
+        <input type="number" name="cantidad" >
+        </label>
+        <br>
+        <label for="">Imagen
+        <input type="file" name="imagen" >
+        </label>
+        <br>
+        <label for="">Categoria
+        <select name="categoria" id="">
+            <option value="ofertas">Ofertas</option>
+            <option value="novedades">Novedades</option>
+        </select>
+        </label>
+        <br>
+        <label for="">Vidriera
+        <select name="vidriera" id="">
+            <option value="si">true</option>
+            <option value="no">false</option>
+        </select>
+        </label>
+        <br>
+        <input type="submit" name="" id="">  
+        <input type="reset" name="" id="">                                            
+    </form>
+</body>
+</html>

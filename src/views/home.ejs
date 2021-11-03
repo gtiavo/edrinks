@@ -15,7 +15,7 @@
         </section>
         <section class="contTarjetas">
             <% productos.filter( product =>{  %>
-            <% if (product.categoria == "novedades" && product.vidriera == true) { %>
+            <% if (product.categoria == "novedades" && product.vidriera == "si") { %>
                 <%- include('partials/cards', {product}); %>
             <% } %>   
             <% }); %>
@@ -31,7 +31,7 @@
         </section>
         <section class="contTarjetas">
             <% productos.filter( product =>{  %>
-            <% if (product.categoria == "ofertas" && product.vidriera == true) { %>
+            <% if (product.categoria == "ofertas" && product.vidriera == "si") { %>
             <%- include('partials/cards', {product}); %>
             <% } %>   
             <% }); %>

@@ -1,102 +1,122 @@
 [
-    {
-        "id": "1",
-        "nombre":"Cerveza Patagonia Bohemian Pilsener rubia lata 473 mL 6 u",
-        "descripcion":"Marca Patagonia Estilo de cerveza Bohemian Pilsener Tipo de envase Lata Volumen de la unidad 473 mL Formato de venta Pack Unidades por pack 6",
-        "precio":"800",
-        "cantidad":"10",
-        "imagen":"https://http2.mlstatic.com/D_NQ_NP_786284-MLA45139485703_032021-V.jpg",
-        "categoria":"novedades",
-        "vidriera":true
-    },
-    {
-        "id": "2",
-        "nombre":"Cerveza Temple Cósmica 473ml X6",
-        "descripcion":"Marca Temple Título manual CósmicaEstilo de cerveza Lager lúpuladaEs libre de gluten No Sabor Lager lúpulada Tipo de envase Lata Volumen de la unidad 473 mLFormato de venta Pack Unidades por pack 6 Cantidad de packs 1",
-        "precio":"799,",
-        "cantidad":"10",
-        "imagen":"https://cdn.shopify.com/s/files/1/1103/5152/products/Cosmica_grande.png?v=1628710706",
-        "categoria":"novedades",
-        "vidriera":true
-    },
-    {
-        "id": "3",
-        "nombre":"Estuche X4 Cerveza Artesanal Antares Botella 500 Ml",
-        "descripcion":"Estuche con 4 botellas Antares 500 ml a eleccion. Estilos disponibles - Kolsch - Scotch - Porter- Honey - Imperial Stout  - Barley WineLOBSO MARKET SOMOS MERCADO LIDER PLATINUM PRODUCTOS ORIGINALES",
-        "precio":"1.730",
-        "cantidad":"3",
-        "imagen":"https://http2.mlstatic.com/D_885204-MLA42136547002_062020-F.webp",
-        "categoria":"novedades",
-        "vidriera":true
-    },
-    {
-        "id": "4",
-        "nombre":"Barba Roja Cerveza Artersanal 330ml Gift Pack X 6",
-        "descripcion":"SIX PACK DE CERVERZAS BARBA ROJA El Pack contiene 6 cervezas artesanales:- BarbaRoja Lager, Luminosa por su cristalinidad y color dorado. Su sabor tiene el acento dulzor de la malta y un dejo amargor del lupulo.-BarbaRoja Frutada, Se elabora con la base de la cerveza negra, con agregado de finas frutas rojas. Una combinacion muy agradable de malta tostada y frambuesa, deja un dulzor delicado en la boca.-BarbaRoja Indian Pale Ale,de sabor intenso, posee un colo cobrizo y un caracter citrico derivado de las seis variedades de lupulos argentinos y europeos-BarbaRoja Morena Porter, cerveza bock, elaborada con granos de cebada tostada, con maltas munich tostada medio y lupulos de bajo amargor.-BarbaRoja Honey con Miel, sabor que combina una malta patagonica, con un tueste medio y el toque de la miel pura de abejas, mas un lupulo importado de bajo amargor pero de intenso aroma.-BarbaRoja Trigo, sabor refrescante, ideal para calmar la sed, de color dorado y algo turbia. Con adjunto de trigo.Tambien puede incluir malta dulce sin alcohol y noche azul 330ml.LAS VARIEDADES ESTAN SUJETAS A DISPONIBILIDAD EN STOCK.Ideal para regalar o para compartir con amigos y/o familia",
-        "precio":"1.299,",
-        "cantidad":"5",
-        "imagen":"http://http2.mlstatic.com/D_775271-MLA43263403058_082020-O.jpg",
-        "categoria":"novedades",
-        "vidriera":true
-    },
-    {
-        "id": "5",
-        "nombre":"Blue Moon Belgian White Porron 355cc. X 12 Unidades.",
-        "descripcion":"",
-        "precio":"2.929",
-        "cantidad":"5",
-        "imagen":"http://http2.mlstatic.com/D_705553-MLA31352168032_072019-O.jpg",
-        "categoria":"ofertas",
-        "vidriera":false
-    },
-    {
-        "id": "6",
-        "nombre":"Estuche Barbaroja De Madera X5 Cervezas Familia Ipa 473ml",
-        "descripcion":"ESTUCHE BARBA ROJA DE MADERA FAMILIA IPA El estuche incluye 5 cervezas de a familia IPA (ipa, doble ipa, neipa, apa y arpa), ideal para regalo o compartir con amigos!!",
-        "precio":"2.599,",
-        "cantidad":"5",
-        "imagen":"https://http2.mlstatic.com/D_NQ_NP_830299-MLA43804653788_102020-O.webp",
-        "categoria":"ofertas",
-        "vidriera":false
-    },
-    {
-        "id": "7",
-        "nombre":"Cerveza Patagonia Küné Pale Ale roja lata 473 mL 6 u",
-        "descripcion":"",
-        "precio":"920",
-        "cantidad":"30",
-        "imagen":"https://http2.mlstatic.com/D_NQ_NP_998595-MLA44839759897_022021-O.webp",
-        "categoria":"ofertas",
-        "vidriera":true
-    },
-    {
-        "id": "8",
-        "nombre":"Cerveza Corona American Adjunct Lager rubia lata 269 mL 10 u",
-        "descripcion":"",
-        "precio":"1.207",
-        "cantidad":"10",
-        "imagen":"https://http2.mlstatic.com/D_888078-MLA44585651336_012021-F.webp",
-        "categoria":"ofertas",
-        "vidriera":true
-    },
-    {
-        "id": "9",
-        "nombre":"Cerveza Pampa Ipa 473cc X1",
-        "descripcion":"Elaborada con agua pura del acuífero Puelche y el mejor blend de maltas de nuestras Pampas. Agradable amargor en boca y delicado aroma botánico resultante de la técnica “dry hopping”, realizada con lo mejor de nuestros lúpulos patagónicos. Un perfecto balance de sabor y aroma.Florentino: de raíces fuertes, nos cobija en su sombra brindándonos templanza. Cosecha“Joven”, para disfrutar de momentos interminables.Cont. Neto por lata 473 cm3.",
-        "precio":"177",
-        "cantidad":"20",
-        "imagen":"https://http2.mlstatic.com/D_NQ_NP_842027-MLA46518219355_062021-O.jpg",
-        "categoria":"ofertas",
-        "vidriera":true
-    },
-    {
-        "id": "10",
-        "nombre":"Cerveza Rabieta Apa 473cc X1",
-        "descripcion":"[ CRAFT MOMENTS ] TE ABRIMOS LAS PUERTAS DEL PARAÍSO DE LA CERVEZA ARTESANAL Rabieta APA es una adaptación de las PA´s inglesas al sabor americano. Es una cerveza con amargor moderado e intenso con aroma al lúpulo aplicado mediante dry hop. Es una excelente puerta de entrada para quienes quieren comenzar a tomar cervezas más amargas antes de dar el salto a las IPA´s. 5,3% ABV (% alcohol) 34 IBU (nivel de amargor) 8 SRM (intensidad de color)",
-        "precio":"198",
-        "cantidad":"20",
-        "imagen":"https://http2.mlstatic.com/D_NQ_NP_929496-MLA42182757449_062020-V.jpg",
-        "categoria":"ofertas",
-        "vidriera":true
-    }
+ {
+  "id": 1,
+  "nombre": "Cerveza Patagonia Bohemian Pilsener rubia lata 473 mL 6 u",
+  "descripcion": "Marca Patagonia Estilo de cerveza Bohemian Pilsener Tipo de envase Lata Volumen de la unidad 473 mL Formato de venta Pack Unidades por pack 6",
+  "precio": "800",
+  "cantidad": "10",
+  "imagen": "patagonia1.jpg",
+  "categoria": "novedades",
+  "vidriera": "si"
+ },
+ {
+  "id": 2,
+  "nombre": "Cerveza Temple Cósmica 473ml X6",
+  "descripcion": "Marca Temple Título manual CósmicaEstilo de cerveza Lager lúpuladaEs libre de gluten No Sabor Lager lúpulada Tipo de envase Lata Volumen de la unidad 473 mLFormato de venta Pack Unidades por pack 6 Cantidad de packs 1",
+  "precio": "799,",
+  "cantidad": "10",
+  "imagen": "temple1.png",
+  "categoria": "novedades",
+  "vidriera": "si"
+ },
+ {
+  "id": 3,
+  "nombre": "Estuche X4 Cerveza Artesanal Antares Botella 500 Ml",
+  "descripcion": "Estuche con 4 botellas Antares 500 ml a eleccion. Estilos disponibles - Kolsch - Scotch - Porter- Honey - Imperial Stout  - Barley WineLOBSO MARKET SOMOS MERCADO LIDER PLATINUM PRODUCTOS ORIGINALES",
+  "precio": "1.730",
+  "cantidad": "3",
+  "imagen": "packAntares.jpg",
+  "categoria": "novedades",
+  "vidriera": "si"
+ },
+ {
+  "id": 4,
+  "nombre": "Barba Roja Cerveza Artersanal 330ml Gift Pack X 6",
+  "descripcion": "SIX PACK DE CERVERZAS BARBA ROJA El Pack contiene 6 cervezas artesanales:- BarbaRoja Lager, Luminosa por su cristalinidad y color dorado. Su sabor tiene el acento dulzor de la malta y un dejo amargor del lupulo.-BarbaRoja Frutada, Se elabora con la base de la cerveza negra, con agregado de finas frutas rojas. Una combinacion muy agradable de malta tostada y frambuesa, deja un dulzor delicado en la boca.-BarbaRoja Indian Pale Ale,de sabor intenso, posee un colo cobrizo y un caracter citrico derivado de las seis variedades de lupulos argentinos y europeos-BarbaRoja Morena Porter, cerveza bock, elaborada con granos de cebada tostada, con maltas munich tostada medio y lupulos de bajo amargor.-BarbaRoja Honey con Miel, sabor que combina una malta patagonica, con un tueste medio y el toque de la miel pura de abejas, mas un lupulo importado de bajo amargor pero de intenso aroma.-BarbaRoja Trigo, sabor refrescante, ideal para calmar la sed, de color dorado y algo turbia. Con adjunto de trigo.Tambien puede incluir malta dulce sin alcohol y noche azul 330ml.LAS VARIEDADES ESTAN SUJETAS A DISPONIBILIDAD EN STOCK.Ideal para regalar o para compartir con amigos y/o familia",
+  "precio": "1.299,",
+  "cantidad": "5",
+  "imagen": "barabarojapack.jpg",
+  "categoria": "novedades",
+  "vidriera": "si"
+ },
+ {
+  "id": 5,
+  "nombre": "Blue Moon Belgian White Porron 355cc. X 12 Unidades.",
+  "descripcion": "",
+  "precio": "2.929",
+  "cantidad": "5",
+  "imagen": "bluemoonpack.jpg",
+  "categoria": "ofertas",
+  "vidriera": "no"
+ },
+ {
+  "id": 6,
+  "nombre": "Estuche Barbaroja De Madera X5 Cervezas Familia Ipa 473ml",
+  "descripcion": "ESTUCHE BARBA ROJA DE MADERA FAMILIA IPA El estuche incluye 5 cervezas de a familia IPA (ipa, doble ipa, neipa, apa y arpa), ideal para regalo o compartir con amigos!!",
+  "precio": "2.599,",
+  "cantidad": "5",
+  "imagen": "barbarojaestuche.jpg",
+  "categoria": "ofertas",
+  "vidriera": "no"
+ },
+ {
+  "id": 7,
+  "nombre": "Cerveza Patagonia Küné Pale Ale roja lata 473 mL 6 u",
+  "descripcion": "",
+  "precio": "920",
+  "cantidad": "30",
+  "imagen": "patagoniakunepack6.jpg",
+  "categoria": "ofertas",
+  "vidriera": "si"
+ },
+ {
+  "id": 8,
+  "nombre": "Cerveza Corona American Adjunct Lager rubia lata 269 mL 10 u",
+  "descripcion": "",
+  "precio": "1.207",
+  "cantidad": "10",
+  "imagen": "coronalatapack.jpg",
+  "categoria": "ofertas",
+  "vidriera": "si"
+ },
+ {
+  "id": 9,
+  "nombre": "Cerveza Pampa Ipa 473cc X1",
+  "descripcion": "Elaborada con agua pura del acuífero Puelche y el mejor blend de maltas de nuestras Pampas. Agradable amargor en boca y delicado aroma botánico resultante de la técnica “dry hopping”, realizada con lo mejor de nuestros lúpulos patagónicos. Un perfecto balance de sabor y aroma.Florentino: de raíces fuertes, nos cobija en su sombra brindándonos templanza. Cosecha“Joven”, para disfrutar de momentos interminables.Cont. Neto por lata 473 cm3.",
+  "precio": "177",
+  "cantidad": "20",
+  "imagen": "pampaipa.jpg",
+  "categoria": "ofertas",
+  "vidriera": "si"
+ },
+ {
+  "id": 10,
+  "nombre": "Cerveza Rabieta Apa 473cc X1",
+  "descripcion": "[ CRAFT MOMENTS ] TE ABRIMOS LAS PUERTAS DEL PARAÍSO DE LA CERVEZA ARTESANAL Rabieta APA es una adaptación de las PA´s inglesas al sabor americano. Es una cerveza con amargor moderado e intenso con aroma al lúpulo aplicado mediante dry hop. Es una excelente puerta de entrada para quienes quieren comenzar a tomar cervezas más amargas antes de dar el salto a las IPA´s. 5,3% ABV (% alcohol) 34 IBU (nivel de amargor) 8 SRM (intensidad de color)",
+  "precio": "198",
+  "cantidad": "20",
+  "imagen": "rabietaapa.jpg",
+  "categoria": "ofertas",
+  "vidriera": "si"
+ },
+ {
+  "id": 11,
+  "nombre": "Cerveza Artesanal Jarva 5 Johnnies Ipa X 473 Ml",
+  "descripcion": "Cerveza artesanal JARVA 5 Johnnies IPA x 473 ml: La cerveza JARVA 5 Johnnies es una IPA híbrida de color dorado intenso, y suave balance entre malta y lúpulos americanos. Dicho equilibrio le da una excepcional tomabilidad y sabor, y sus 5 tipos de lúpulos le otorgan un potente aroma cítrico, resinoso y a frutas tropicales.",
+  "precio": "235",
+  "cantidad": "20",
+  "categoria": "ofertas",
+  "vidriera": "no",
+  "imagen": "imagen-1635977766370-227893222birraJarva.jpg"
+ },
+ {
+  "id": 12,
+  "nombre": "Cerveza Artesanal La Beriso Scotch Ale 473cc X1",
+  "descripcion": "La tienda no incluyó una descripción del producto",
+  "precio": "158",
+  "cantidad": "20",
+  "categoria": "novedades",
+  "vidriera": "si",
+  "imagen": "imagen-1635978689992-124231313laberisolata.jpg"
+ }
 ]
